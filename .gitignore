@@ -1,0 +1,9 @@
+/.review/
+/detect.jlink
+/flash.jlink
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+Thumbs.db
+Desktop.ini

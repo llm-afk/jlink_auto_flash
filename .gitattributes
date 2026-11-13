@@ -1,0 +1,6 @@
+*.exe binary
+*.dll binary
+*.bin binary
+*.ps1 -text
+*.bat -text
+*.md text eol=lf
